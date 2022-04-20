@@ -1,3 +1,9 @@
+## Layout do Projeto
+
+https://raw.githubusercontent.com/diegobda/covid-19-dio/main/Screenshot%20from%202022-04-20%2017-04-32.png
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
