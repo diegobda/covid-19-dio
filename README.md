@@ -1,6 +1,11 @@
 ## Layout do Projeto
 
-https://raw.githubusercontent.com/diegobda/covid-19-dio/main/Screenshot%20from%202022-04-20%2017-04-32.png
+<figure>
+  <img src="https://raw.githubusercontent.com/diegobda/covid-19-dio/main/Screenshot%20from%202022-04-20%2017-04-32.png" alt="Covida">
+  <figcaption>Covid 19</figcaption>
+</figure>
+
+
 
 
 
